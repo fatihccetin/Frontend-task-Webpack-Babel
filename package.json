@@ -8,7 +8,7 @@
     "> 5%"
   ],
   "bugs": {
-    "url": "https://github.com/WeAreAthlon/frontend-webpack-boilerplate/issues",
+    "url": "https://github.com/fatihccetin/Frontend-task-Webpack-Babel/blob/master/README.md",
     "email": "plamen@athlonsofia.com"
   },
   "contributors": [
@@ -65,7 +65,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:WeAreAthlon/frontend-webpack-boilerplate.git"
+    "url": "https://github.com/fatihccetin/Frontend-task-Webpack-Babel/blob/master/README.md"
   },
   "scripts": {
     "build": "webpack --config configuration/webpack.dev.config.js --mode=development",
