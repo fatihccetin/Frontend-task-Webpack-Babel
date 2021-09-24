@@ -1,6 +1,8 @@
 # gulp-sass  Webpack - Babel - Eslity  master
-gulp sass - scss and minify css file
+gulp sass  and minify css file
 webpack - Babel - EsLint
+
+references::[@ WeAreAthlon ](https://github.com/WeAreAthlon/frontend-webpack-boilerplate).
 
 <code>npm i</code>
 
