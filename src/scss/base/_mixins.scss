@@ -1,0 +1,21 @@
+/**
+ * Helper mixins
+*/
+
+// Media queries
+@mixin bp($point) {
+  @if $point == large {
+    @media (min-width: 1280px) { @content; }
+  } @else if $point == small {
+    @media (max-width: 1279px) { @content; }
+  }
+}
+
+//  selection
+@mixin flex-display ($display,$align-items,$justify-content) {
+
+  display: $display; 
+  align-items: $align-items;
+  justify-content: $justify-content;
+  
+}
